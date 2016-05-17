@@ -16,3 +16,4 @@ and it is delivered on the interface of the web through browser interface.
 [[https://www.fullstackpython.com/flask.html][Flask :: Flask is a Python web framework built with a small core and
 easy-to-extend philosophy.]] 
 
+[[./web-app-devlopment.jpg]]
