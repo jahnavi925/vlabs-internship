@@ -1,0 +1,56 @@
+#+TITLE: Building a web application: ground up to the cloud
+#+AUTHOR: Jahnavi Ayyanki
+#+DATE: [2016-5-17]
+* Introduction 
+A web application is a type of application which is stored on the remote server
+and it is delivered on the interface of the web through browser interface.
+* Building a web application 
+** Flow of request 
+[[https://www.python.org/][Python]]:: Python will be the main language of implementation. version to be used is 2.7 (not 3.x versions)
+
+[[http://flask.pocoo.org/][flask]] :: flask is a framework for web application development in pyhton management.
+
+[[https://www.javascript.com/][javascript]] :: Javascript is a scripting language, which is used for client side validation.
+
+[[https://www.mysql.com/][mysql]] :: mysql is a open source RDBMS and it is used beacuse of high end availability. 
+
+* Image
+
+[[./home/VLEAD/IMG_20160517_092640205.jpg]]
+
+* data models :: Data models are fundamental entities which are used to build DSD's. Data models are used to define how data is processed and they are connected to each other.
+** entity relationship models
+** relational models 
+* sets 
+* relations
+* functions :: functions are those in which there is a unique mapping from set A to set B  
+** cardinality 
+** partial functions
+* user
+** roles 
+** name
+** session
+** email
+ 
+* system variable
+
+fix the contents for 
+the sysytem state doesn't change if the user doesnot exist then we get null.
+the variables decide the state in which the system is present
+this includes the entity and entity set. based on these the state of the system is determined which defines the state of the output from the input.
+|
+
+| operation                          | credentials   | referential  | effect       | remarks |
+| signature                          |               | integrity    | and/output   |         |
+|------------------------------------+---------------+--------------+--------------+---------|
+| addUser(u:User, s:Session)         | s.role=admin  | u:~user-set  | succ or      |         |
+|                                    |               |              | failure      |         |
+| show(s:session)                    | s.role>=guest |              |              |         |
+|                                    |               |              |              |         |
+| delUser(u:user,s:Session)          | s.role=admin  | u:user-set   | succ or fail |         |
+|                                    |               |              |              |         |
+| getUserByEmail(e:Email,s:Session)  | s.role>=guest |              | return user  |         |
+|                                    |               |              |              |         |
+| makeUser(e:email,n:Name,s:Session) | s.role=admin  | e:~email-set |              |         |
+
+
