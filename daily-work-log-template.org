@@ -25,4 +25,11 @@
 
 *** What did I get done against each task?
     I made an emacs file with my group members and we coded some of the operations in python and then made various test cases against each operation.
-
+    
+** [2016-05-19 wed]
+*** what is the task I was assigned today?
+    we were told to finish our work on data models and add sessions to it.
+    
+*** What did I get done against each task?
+    we continued our work from yesterday and we added sessions to our models.
+    
