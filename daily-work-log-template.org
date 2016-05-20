@@ -33,3 +33,9 @@
 *** What did I get done against each task?
     we continued our work from yesterday and we added sessions to our models.
     
+** [2016-05-20 Fri]
+*** what is the task I was assigned today? 
+    We were taught about ORM (object relaional model).
+    
+*** What did I get done against each task?
+    we worked on our web application models. we started implenting ORM.
