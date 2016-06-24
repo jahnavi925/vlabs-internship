@@ -136,5 +136,11 @@
    Understood about amazon docker pricing and allocation.
    Continued documenting.
    
+** [2016-06-23 Thurs]
+   Learnt about data volumes. 
+   watched a video on how to deploy docker conatainers on AWS.
+   Created about 200 containers and tried to understand the memory allocation for each container.
+   
+   
    
    
