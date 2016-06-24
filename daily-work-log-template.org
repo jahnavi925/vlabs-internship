@@ -127,4 +127,14 @@
    Started exploring these points.
    
 ** [2016-06-20 Mon]
-   Star
+   Started exploring about docker back up. Which was one of the points which were pointed to out us.
+   Read and understood about docker deployment.
+   Continued documenting.
+   
+** [2016-06-21 Tue]
+   Learnt about command line history for conatiner.
+   Understood about amazon docker pricing and allocation.
+   Continued documenting.
+   
+   
+   
