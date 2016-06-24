@@ -90,3 +90,41 @@
    Learnt some commands in Open VZ.
    Learnt how to create containers and how to do some operations on it.
    We were given an assignment on some commands in Open VZ.
+   
+** [2016-06-8 Wed] 
+   Learnt about the differences between public and private DNS. Understood the working of Apache server, STPI and  ansible.
+   Understood AWS and VLEAD architecture.
+   
+** [2016-06-9 Thurs]
+   Started installing docker and working on it.
+   created containers and performed some operations on them.
+   For eg :-
+   How to start/stop/restart/inspect a conatiner.
+     
+** [2016-06-10 Fri]
+   Understood and implemented various commands that can be performed in docker and also made a document of the things learned.
+   
+** [2016-06-13 Mon]
+   Learnt some new operations in docker.
+   Fixed some errors in them.
+   
+** [2016-06-14 Tue]   
+   Made lots of docker images and containers and performed some operations on them.
+   Explored and understood docker hub.
+   Learnt some new commands.
+   
+** [2016-06-15 Wed]
+   Hosted a html page from the docker conatiner that we created using apache server.
+   Started making a proper presentation on docker that we learnt.
+   
+** [2016-06-16 Thurs]
+   Continued working on the presentation.
+   Explored more of docker.
+   
+** [2016-06-17 Fri]
+   Gave a presenation on docker.
+   Some points were given to us which required more understanding.
+   Started exploring these points.
+   
+** [2016-06-20 Mon]
+   Star
