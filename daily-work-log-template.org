@@ -141,6 +141,9 @@
    watched a video on how to deploy docker conatainers on AWS.
    Created about 200 containers and tried to understand the memory allocation for each container.
    
-   
-   
+** [2016-06-24 Fri]
+   Learnt and tried to resize the RAM and dick space in the docker containers.
+   Implemented data volumes in the containers.
+   Learnt some new commands in docker.
+   Read and tried to understand about the networking portion of docker.
    
