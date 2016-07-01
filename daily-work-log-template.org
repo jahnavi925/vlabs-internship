@@ -147,3 +147,26 @@
    Learnt some new commands in docker.
    Read and tried to understand about the networking portion of docker.
    
+** [2016-06-27 Mon]
+   Started performance testing on the 197 docker containers that were created.
+   Used the curl command to transfer data to and fro from the server using the protocol HTTP or HTTPS.
+   This curl command was used to create load on the containers.
+   
+** [2016-06-28 Tue]
+   Continued with the performance testing on the containers.
+   Used a new command called the seige command which was used to measure the performance of the web server when under duress.
+   Documenting was done parallely.
+   
+** [2016-06-29 Wed]
+   Various results were collected from the performance testing.
+   These results were then put in proper graphs.
+   The graphs were put and explained in the document.
+   
+** [2016-06-30 Thurs]
+   Another test using the fork bomb was done and the data was collected.
+   Document was made properly for the presentation next day.
+   
+** [2016-07-01 Fri]
+   The presentation on docker was done today and the entire vlead staff were present.
+   The professor pointed out some loop holes in the presentation.
+   We tried to fix them after the presentation.
